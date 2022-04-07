@@ -7,5 +7,5 @@ Streamlit app to activate the Parliament analyis.
 3. Install streamlit in your environment https://streamlit.io/
 4. Activate the Streamlit app  using `streamlit run stream_data_nlp_analysis.py`
 
-Literature:
-Benedikt Perak (2022) Modeling Semantic Relations from a Dependency-Based Graph: A Corpus-Based Network Analysis of Croatian Parliamentary Debates. In Tara Andrews, Franziska Diehr, Thomas Efer, Andreas Kuczera, Joris van Zundert (eds.) Graph Technologies in the Humanities – Proceedings 2020. CEUR Workshop Proceedings (CEUR-WS.org ISSN 1613-0073)
+Paper:
+Benedikt Perak (2022) [Modeling Semantic Relations from a Dependency-Based Graph: A Corpus-Based Network Analysis of Croatian Parliamentary Debates](http://ceur-ws.org/Vol-3110/paper9.pdf). In Tara Andrews, Franziska Diehr, Thomas Efer, Andreas Kuczera, Joris van Zundert (eds.) Graph Technologies in the Humanities – Proceedings 2020. CEUR Workshop Proceedings (CEUR-WS.org ISSN 1613-0073)
